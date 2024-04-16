@@ -1,3 +1,4 @@
 /node_modules
 /dist
+/figuresClasses.ts
 **/*.test.ts

@@ -1,4 +1,5 @@
 module.exports = {
+  root: false,
   extends: [
     'airbnb-typescript/base',
     '@mate-academy/eslint-config',
